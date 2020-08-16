@@ -3,10 +3,10 @@ import PropTypes from 'prop-types'
 
 
 const Typer  = ({phrase}) => (
-    <div>
-        <h1 className='typer'>
+    <div className='typewriter'>
+        <div className='typer'>
             {phrase}
-        </h1>
+        </div>
     </div>
 )
 

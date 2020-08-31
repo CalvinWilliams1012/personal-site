@@ -1,7 +1,8 @@
 import React from 'react'
-
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
+import { Link } from 'gatsby-plugin-modal-routing'
+
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -32,6 +33,13 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
+        <Link
+          to="/subscribe"
+          asModal
+        >
+          retwertwertfgxfgr
+        </Link>
+      
       </Layout>
     )
   }

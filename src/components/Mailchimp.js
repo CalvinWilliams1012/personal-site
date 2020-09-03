@@ -1,6 +1,5 @@
 import React from 'react'
 import addToMailchimp from 'gatsby-plugin-mailchimp'
-import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 
 const EmailSubscriptionComponent = class extends React.Component {
     constructor() {
@@ -24,16 +23,17 @@ const EmailSubscriptionComponent = class extends React.Component {
             <div>Error :(</div>
         ) : (
             <form onSubmit={this._handleSubmit}>
-                <h2>Subscribe to my email list!</h2>
+                <h2 className="label">Subscribe to my email list!</h2>
                 <div>
                     <input
+                    className="input"
                     id="email-entry"
                     placeholder="Email address"
                     name="email"
                     type="email"
                     onChange={this.handleChange}
                     />
-                    <button type="submit">Subscribe</button>
+                    <button className="button button-margin-top" type="submit">Subscribe</button>
                 </div>
             </form>
         )

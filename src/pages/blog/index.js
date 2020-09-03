@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
-import { Link } from 'gatsby-plugin-modal-routing'
+import Mailchimp from '../../components/Mailchimp'
 
 
 export default class BlogIndexPage extends React.Component {
@@ -33,12 +33,13 @@ export default class BlogIndexPage extends React.Component {
             </div>
           </div>
         </section>
-        <Link
-          to="/subscribe"
-          asModal
-        >
-          retwertwertfgxfgr
-        </Link>
+        <section className="section">
+          <div className="container">
+            <div className="content">
+              <Mailchimp />
+            </div>
+          </div>
+        </section>
       
       </Layout>
     )

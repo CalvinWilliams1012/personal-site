@@ -17,9 +17,9 @@ const EmailSubscriptionComponent = class extends React.Component {
     }
     
     render () {
-        return this.state.result === "success" ? (
+        return this.state.result == "success" ? (
             <div>Success!</div>
-        ) : this.state.result === "error" ?(
+        ) : this.state.result == "error" ?(
             <div>Error :(</div>
         ) : (
             <form onSubmit={this._handleSubmit}>

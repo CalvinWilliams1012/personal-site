@@ -9,7 +9,7 @@ const EmailSubscriptionComponent = class extends React.Component {
     _handleSubmit = async e => {
       e.preventDefault()
       const result = await addToMailchimp(this.state.email)
-      this.setState({result: result})
+      this.setState({result: result.result})
     }
     
     handleChange = event => {
@@ -17,9 +17,9 @@ const EmailSubscriptionComponent = class extends React.Component {
     }
     
     render () {
-        return this.state.result == "success" ? (
+        return this.state.result === "success" ? (
             <div>Success!</div>
-        ) : this.state.result == "error" ?(
+        ) : this.state.result === "error" ?(
             <div>Error :(</div>
         ) : (
             <form onSubmit={this._handleSubmit}>

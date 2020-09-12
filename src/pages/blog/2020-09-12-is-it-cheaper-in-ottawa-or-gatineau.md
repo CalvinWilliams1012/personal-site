@@ -15,7 +15,17 @@ tags:
   - cost of living
   - taxes
 ---
+# Housing
 
+Housing is generally the most expensive thing in someones life, and if you just take a look at the housing cost in Gatineau and Ottawa you immediately see a huge difference. Luckily the Canada Mortgage and Housing Corporation publishes data tables on this which can be [found here](https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/rental-market-report-data-tables). 
+
+Checking the numbers for 2019, we can see that 
+
+# Income Taxes
+
+# Insurance
+
+# Child care
 
 ###### References:
 

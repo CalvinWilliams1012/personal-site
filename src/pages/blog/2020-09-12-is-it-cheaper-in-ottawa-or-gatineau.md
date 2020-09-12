@@ -15,4 +15,10 @@ tags:
   - cost of living
   - taxes
 ---
-test
+
+
+###### References:
+
+1. <https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/rental-market-report-data-tables>
+
+   [](https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/rental-market-report-data-tables)

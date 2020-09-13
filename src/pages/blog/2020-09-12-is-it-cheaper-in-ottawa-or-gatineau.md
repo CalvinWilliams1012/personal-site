@@ -45,9 +45,19 @@ At an income of **$150000**, **Ontario income tax is $7910 cheaper**.
 
 This made me interested in the salary that would make up for the difference in rent, this number is $132,750, at an income of **$132,750**, **Ontario income tax is** **$7212 cheaper per year.** If we only use the rental and income tax numbers, would mean that if you earn below **$132,750**, it is cheaper to live in Gatineau, and if you earn above, it is cheaper in Ottawa.
 
-# Insurance and Registration
+# Insurance, Registration, and Licensing
 
 Income Tax and Housing is not the only difference! The insurance and registration costs in Ottawa and Gatineau differ greatly, and while using only the rent and income tax difference would be a reasonable estimate, we can further quantify which is cheaper.
+
+[According to the Insurance Bureau of Canada](http://www.ibc.ca/bc/resources/media-centre/media-releases/bc-drivers-continue-to-pay-the-highest-auto-insurance-premiums-in-canada), the average auto premium in Quebec is **$717** and the average in Ontario is **$1,505**. I also however found other sources specific to Gatineau and Ottawa stating slightly different numbers, for example [this source stating Gatineau average premiums are](https://www.ratelab.ca/insurance/car/quebec/) **$560,** and [this source stating average Ottawa premium](https://www.ratehub.ca/insurance/car/ottawa) 'is just shy of **$1,600**', however the numbers of the IBC seem more reliable, so we will use those.
+
+The cost to renew your license in Ontario and Quebec is similar, with the [renewal in Quebec](https://saaq.gouv.qc.ca/en/saaq/rates-fines/drivers-licence/cost-renewing-licence/) being **$86.34**, and the [renewal in Ontario](https://www.ontario.ca/page/driver-and-vehicle-fees) being **$90**. However in Quebec, the number of demerit points you have increases this cost.	
+
+The vehicle registration between the provinces also differs, [with Quebec being](https://saaq.gouv.qc.ca/en/saaq/rates-fines/vehicle-registration/cost-registration-renewal/passenger-vehicles/) **$272.57**, some of this cost is due to being in Gatineau, which increases the cost to due a required [Public Transit Contribution](https://saaq.gouv.qc.ca/en/saaq/rates-fines/vehicle-registration/cost-registration-renewal/passenger-vehicles/contribution-public-transit/). I additionally would like to note that in Quebec they tack you with more small fees that could cause the exact cost to differ, see: <https://saaq.gouv.qc.ca/en/saaq/rates-fines/vehicle-registration/fees-vehicle-registration/>
+
+However in Ontario, the total cost is **$179**, this being the Licence plate (new and replacement), with permit at **$59** and the Licence plate sticker being **$120** (Southern Ontario)
+
+The total cost just using the numbers above for insurance registration and licensing in **Gatineau would be $1075.91,** while **Ontario would be** **$1774.** Making **Gatineau $698.09 cheaper**. With the additional fees this would most likely be a slightly smaller difference, and the insurance premium is an average and may differ from person to person, but the number is a good example.
 
 # Child care
 

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Motorcycling - Crossing Off The Bucket List
 date: 2020-09-06T17:07:49.699Z
 description: "I bought a motorcycle this year~! aaand im selling it this year "
-featuredpost: true
+featuredpost: false
 featuredimage: /img/snapchat-1092078220.jpg
 tags:
   - motorcycle

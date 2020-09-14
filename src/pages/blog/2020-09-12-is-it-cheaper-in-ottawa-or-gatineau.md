@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Is it Cheaper in Ottawa or Gatineau?
-date: 2020-09-13T05:06:23.313Z
+date: 2020-09-14T02:27:41.943Z
 description: If you are living in the, or moving to the National Capital Region,
   you may be wondering if it is cheaper to live in Ottawa or Gatineau. Here is
   my research from trying to figure this out.

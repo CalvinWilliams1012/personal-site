@@ -14,8 +14,11 @@ tags:
   - ncr
   - cost of living
   - taxes
+  - childcare
+  - insurance
+  - money
 ---
-This is simply a look at the **cost** of living in Gatineau vs Ottawa, and does not account for differences such as healthcare.
+This is simply a look at the **cost** of living in Gatineau vs Ottawa, and does not account for differences such as healthcare, services, language, etc.
 
 # Housing
 
@@ -61,4 +64,16 @@ The total cost just using the numbers above for insurance registration and licen
 
 # Child care
 
+Another considerable cost is child care. This expense has a large difference between Ottawa and Gatineau. The Canadian Centre for Policy Alternatives publishes a ["Child care fees in Canada’s big cities" study](https://www.policyalternatives.ca/newsroom/news-releases/study-reveals-highest-and-lowest-child-care-fees-canadian-cities-2018). This has the average cost of childcare for Infants, Toddlers and Preschool, see the table:
+
+![Daycare table](/img/daycaredatagatineauottawa.png "Daycare table")
+
+As we can see, the cost in Gatineau is much, much less. The reason for this is Quebec has subsidized childcare with a set reduced rate ($8.25 in 2019 or $8.35 in 2020) and non-subsidized childcare that you receive a refundable tax credit between 75% and 26% of eligible childcare expenses paid, depending on family income. You can enter your income using the [calculator available here](http://www.budget.finances.gouv.qc.ca/budget/outils/garde_en.asp).
+
+Using the averages from the study, Gatineau is **$765/month cheaper for Infant childcare**, **$819/month cheaper for Toddler childcare** and **$817/month cheaper for Preschool childcare**. Over a year this results in **$9180 to $9828 in savings in** Gatineau.
+
 # [](https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/rental-market-report-data-tables)Overall
+
+From my research, overall, if you have a child, it is almost certainly cheaper to live in Gatineau, if you do not have a child, then it is a little more dependent on income. 
+
+You can calculate even more costs but I believe they are much less significant, for example, sales tax in Quebec is 14.98%, but Ontario is 13%, which is very little day to day(and you could just shop across the border), but may be significant if making large purchases. Another example is the Ontario Land Transfer Tax Refund for First Time Home buyers, which is not available in Quebec, or Quebec electric vehicle rebate that is not available in Ontario.

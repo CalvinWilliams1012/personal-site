@@ -77,3 +77,5 @@ Using the averages from the study, Gatineau is **$765/month cheaper for Infant c
 From my research, overall, if you have a child, it is almost certainly cheaper to live in Gatineau, if you do not have a child, then it is a little more dependent on income. 
 
 You can calculate even more costs but I believe they are much less significant, for example, sales tax in Quebec is 14.98%, but Ontario is 13%, which is very little day to day(and you could just shop across the border), but may be significant if making large purchases. Another example is the Ontario Land Transfer Tax Refund for First Time Home buyers, which is not available in Quebec, or Quebec electric vehicle rebate that is not available in Ontario.
+
+If you only care about the cost of where you live(*which I don't recommend!*), you should calculate the difference between the actual costs given your actual situation, using the resources above.

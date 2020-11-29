@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Leveling in a Video Game is Easier than Real Life.
 date: 2020-10-23T08:10:23.396Z
 description: I think I was addicted to video games and here is why I think so.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/game-time.png
 tags:
   - video games

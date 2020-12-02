@@ -77,3 +77,5 @@ When I try to 'level up' in real life, the next level is sometimes unknown and I
 You may think this is a bad outlook, but really the difference is that you have freedom to do what you wish in the real world. You have some of this in video games, but you walk down a path for a predefined achievement where as in the real world you do not, you have complete freedom to pick not only your own path but also you have the ability to plan the next level or achievement for yourself.
 
 When I was younger, I guess I was just looking for purpose and to achieve something and found the shortest way that made me feel good. With some more life experience my video gaming has turned more into casual leisure with my friends rather than my purpose :)
+
+EDIT: [See my related blog post "Keepin' track" for details on how I am trying to make my path more clear ](https://calvinwilliams.ca/blog/2020-11-25-keepin-track/)

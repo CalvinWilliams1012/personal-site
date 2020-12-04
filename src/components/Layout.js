@@ -14,7 +14,7 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
-
+        <script data-ad-client="ca-pub-7815080056981939" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <link
           rel="apple-touch-icon"
           sizes="180x180"

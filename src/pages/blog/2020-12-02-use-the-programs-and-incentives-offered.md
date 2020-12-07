@@ -14,7 +14,7 @@ tags:
   - canada
   - money
 ---
-![Illustrated picture of Ottawa with the title "Government Programs"](/img/ottawa-4210074_1280-1-.png "Government Programs")
+![](/img/ottawa-4210074_1280-1-.png)
 
 As someone who is interested in personal finance, I believe I see a couple more government programs or various incentives than the average Canadian. When  I tell others about programs, some people seem to act like I am taking advantage of the companies or government... 
 

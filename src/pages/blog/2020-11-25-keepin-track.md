@@ -11,7 +11,7 @@ tags:
   - rant
   - creating
 ---
-![5 minutes, Photo by Omid Armin on Unsplash](/img/omid-armin-t3k93pz_nbs-unsplash-1-.jpg "Photo by Omid Armin on Unsplash")
+![](/img/omid-armin-t3k93pz_nbs-unsplash-1-.jpg)
 
 *Photo by [Omid Armin](https://unsplash.com/@omidarmin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
 

@@ -11,7 +11,7 @@ tags:
   - life
   - future
 ---
-![Image of gears and cogs captioned 'whats next'](/img/gears-1236578_1920-1-.jpg "whats next")
+![](/img/gears-1236578_1920-1-.jpg)
 
 # This Tech Stuff is Kinda Cool
 

@@ -13,7 +13,7 @@ tags:
   - 4%
   - ""
 ---
-![Long exposure of highway with the title "Why I Don't Own a Car"](/img/traffic-332857_1920-1-.jpg)
+![](/img/traffic-332857_1920-1-.jpg)
 
 I am 23 years old, have my drivers license, have a well paying job, but do not have a car.
 

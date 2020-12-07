@@ -44,7 +44,7 @@ and you also may need to consider:
 
 According to [AutoTrader](https://www.autotrader.ca/newsfeatures/20200512/april-2020-price-index-results-released/), the average new car is ***$28328*** and the average used car is ***$14999.*** This is a automatically a large amount of money, but lets say you didn't have the cash in hand and needed to finance, for example $5000 down and finance the rest. With new cars you may be able to get a low rate, lets say 2%, and you went with 4 years on the loan. This would be ***$500 interest*** in the first year alone and total around ***$964.99*** if we use Ontario sales tax. With used cars, if you don't have cash I recommend you save until you do because the financing is most likely not worth it.
 
-We then need to get insurance. The average car insurance for 23 year olds in Ontario is* **$3,216 - $4,884*****,** I would be somewhere around average I believe as I am a male, so my rate goes up, but I also have no previous claims/accidents. This is also much less in Quebec due to the no fault insurance, and most likely less than half of the above number.
+We then need to get insurance. The average car insurance for 23 year olds in Ontario is* **$3,216 - $4,884\*\****,\*\* I would be somewhere around average I believe as I am a male, so my rate goes up, but I also have no previous claims/accidents. This is also much less in Quebec due to the no fault insurance, and most likely less than half of the above number.
 
 Now lets look at all the other small costs. it would be over ***$250*** for licensing and registration, see here [for Quebec](https://saaq.gouv.qc.ca/en/saaq/rates-fines/vehicle-registration/cost-registration-renewal/passenger-vehicles/) and here [for Ontario](https://www.ontario.ca/page/register-vehicle-permit-licence-plate-and-sticker). It would be on average ***$1742*** a year in gas, according to [National Resources Canada](https://fcr-ccc.nrcan-rncan.gc.ca/en). For maintenance we are looking at** *$500-700*** a year [according to CAA](https://www.caa.ca/canadians-unclear-about-the-true-cost-of-owning-a-vehicle/).
 
@@ -57,3 +57,5 @@ In some places, you have no choice, you need to buy a car to exist. However if y
 For me, it would consider it insane for me personally to buy a car for myself. I live 2 blocks from a grocery store, 4 from a pharmacy, and 6 from a hardware store. With many others not mentioned also similar distances. 
 
 This ***$10000*** a year instead is invested, and this ten thousand invested every year over 30 years turns into ***$693,271.44*** with a conservative 5% rate of return compounding monthly. If we follow the 4% rule, this nest egg would allow you to spend ***$27730.85/year*** in retirement. I hope that explains why I don't own a car :)
+
+If my life however changes and I move somewhere where I require a car to get to work or for other purposes, then obviously I would buy one. Until then, retirement becomes closer and closer.

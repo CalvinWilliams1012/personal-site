@@ -4,7 +4,7 @@ title: Excited to See What's Next
 date: 2020-11-29T07:21:51.385Z
 description: Looking back on the technology I have seen in my lifetime
   backwards... I am excited to see what the next 10, 20, or 30 years brings
-featuredpost: true
+featuredpost: false
 featuredimage: /img/gears-1236578_1920-1-.jpg
 tags:
   - technology

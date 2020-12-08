@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Keepin' track
 date: 2020-11-25T02:53:50.215Z
 description: Life goes fast, my idea to capture it
-featuredpost: true
+featuredpost: false
 featuredimage: /img/omid-armin-t3k93pz_nbs-unsplash-1-.jpg
 tags:
   - life

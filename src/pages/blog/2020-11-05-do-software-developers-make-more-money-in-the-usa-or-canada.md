@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Do Software Developers Make More Money in the USA or Canada?
 date: 2020-11-05T03:52:47.107Z
 description: The Unites States.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/usa-vs-canada.jpg
 tags:
   - canada

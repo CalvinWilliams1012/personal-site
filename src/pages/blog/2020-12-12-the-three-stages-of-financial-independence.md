@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Three Stages of Financial Independence
 date: 2020-12-12T08:50:32.037Z
-description: The extremely boring middle of financial independence..
+description: My perspective on the stages of FI
 featuredpost: true
 featuredimage: /img/woman-5679001_1920-1-.jpg
 tags:

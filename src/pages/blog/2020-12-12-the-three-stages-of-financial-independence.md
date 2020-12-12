@@ -14,7 +14,7 @@ tags:
 ---
 ![](/img/woman-5679001_1920-1-.jpg)
 
-I see financial independence as three distinct sections.. and this part I am on now isn't that fun.
+I see financial independence as three distinct sections.. and this part I am on now isn't that... fun.
 
 # Part 1 : Unknowing and Excited
 
@@ -38,7 +38,7 @@ I am at this point and I realized that well, this is just something on the side 
 
 I have not yet hit this period, but at this point, you reached your amount. Your investments now cover your expenses. You did it, you reached the finish line.
 
-Now what? Some people fall into the "one more year" syndrome, others retire the day they hit this number.. At this point it is specific to each individual, because they are FREE. They can now if they so wish, do what they want.
+Now what? Some people fall into the "one more year" syndrome, others retire the day they hit this number.. At this point I feel it is more specific to each individual, because they are FREE. They can now do as they so wish.
 
 While I believe that I may not be as excited in this period, I can just imagine the peace of mind and serenity this would bring. Knowing that if you didn't make another dollar you could just.. exist.
 

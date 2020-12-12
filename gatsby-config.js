@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Calvin Williams',
     description:
-      'This is my personal website :) All opinions are my own.',
+      'Calvin Williams personal website, personal finance, video games, life in general :)',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

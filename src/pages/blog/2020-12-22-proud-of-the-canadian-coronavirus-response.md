@@ -43,11 +43,11 @@ The United States has just passed the second US Stimulus bill through senate. Th
 
 # Break It Down
 
-###### Direct Payments
+## Direct Payments
 
 $600 Direct Payments is about the US Minimum Wage for 80 hours of work\[2]. $600 does not coverage the average rent for one month, not only if we use the entire US average which includes extremely high cost areas\[3]... but it does not cover the average rent in a SINGLE STATE \[4]! Kansas? Idaho? Ohio? Iowa? All of them over $600 average rent.
 
-###### PPP Loans
+## PPP Loans
 
 The lie that PPP was sold on was that it was to help small mom & pop businesses survive payrolls through the pandemic.. and it does help small business'... with many receiving small amounts... but we find in the end this is simply cronyism. 
 
@@ -55,7 +55,7 @@ In the last PPP, hundreds of millions of dollars was loaned to giant corporation
 
 You might say well, it is a loan.. Yes this is a loan.. an unsecured one... WITH A 1% INTEREST RATE. Current mortgage rates are more than double this, and they are secured to one of the best assets. Oh and did I forget to mention that the loans can be forgiven\[7]?!
 
-###### Other Goods
+## Other Goods
 
 Most other benefits, seem good, if the funding actually goes to the cause. I would like to highlight the two following.
 
@@ -67,7 +67,7 @@ Most other benefits, seem good, if the funding actually goes to the cause. I wou
 
 I would like to talk about why I am proud of the Canadian response.
 
-###### CERB
+## CERB
 
 Lost your income during Covid-19? $2000/month\[9]. What about the rules?
 
@@ -78,7 +78,7 @@ Lost your income during Covid-19? $2000/month\[9]. What about the rules?
 
 That's all. This at least covers average rent, EVERYWHERE\[10]. Even Toronto and Vancouver, with some of the most expensive real estate in the world.
 
-###### What about Small Business?
+## What about Small Business?
 
 We aren't perfect and still have some handouts to our overlords.. but they are in my opinion at least, better. Two main programs I would like to note:
 

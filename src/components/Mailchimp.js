@@ -23,7 +23,7 @@ const EmailSubscriptionComponent = class extends React.Component {
             <div>Error :(</div>
         ) : (
             <form onSubmit={this._handleSubmit}>
-                <h2 className="label">Subscribe to my email list!</h2>
+                <h2 className="label">Subscribe to get updates on new posts!</h2>
                 <div>
                     <input
                     className="input"

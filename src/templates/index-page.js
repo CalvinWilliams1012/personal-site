@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import BlogRoll from '../components/BlogRoll'
 import Typer from '../components/Typer'
+import Mailchimp from '../components/Mailchimp'
 
 export const IndexPageTemplate = ({
   heading,
@@ -33,6 +34,13 @@ export const IndexPageTemplate = ({
                       Read more
                     </Link>
                   </div>
+                  <section className="section">
+                    <div className="container">
+                      <div className="content">
+                        <Mailchimp />
+                      </div>
+                    </div>
+                  </section>
                 </div>
               </div>
             </div>

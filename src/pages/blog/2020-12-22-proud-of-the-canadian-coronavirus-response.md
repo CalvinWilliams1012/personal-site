@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Proud of the Canadian Coronavirus Response
 date: 2020-12-22T06:15:55.289Z
 description: At the time of writing this, the new US stimulus package was
-  approved by the senate... and I am happy to be Canadian.
+  approved by the senate... and I am happy to be Canadian. ! Edited 1/16/2021 !
 featuredpost: true
 featuredimage: /img/flag-472394_1920.png
 tags:
@@ -87,11 +87,23 @@ We aren't perfect and still have some handouts to our overlords.. but they are i
 
 \[11] Just looking at these, you can see that these are obviously more reasonable. A dollar value loan to fit the "Small" in "Small Business" and the main program -- the wage subsidy, to directly keep jobs by paying the lions share of the employee's wages.
 
+## Non-Monetary Response
+
+As I am writing this, Quebec, where I currently live has an 8 pm curfew where you can be fined for being out, stores have mandatory capacities, only essential services can remain open. Ontario is currently locked down with only essential business can remain open.
+
+Our government understands that this will hurt people financially, they understand that this will result in some small business' being closed, however we as a country have mostly decided that we are going to take this in turn for saving peoples lives.
+
+We still have quite a lot of people who break the rules and don't listen as I can only guess they have been led astray by conspiracy theories or lack the empathy to understand while they might not directly be hurt by it, our more vulnerable are. The existence of these people explains why we don't have as good of covid 19 stats like New Zealand, or similar countries... however, we still are far ahead of the US, and other countries like the UK.
+
+The Canadian Government has decided to be on the right side of history regarding the pandemic. We are however failing the vaccine rollout as I write this, however this has been mentioned all over the news so hopefully the bad publicity will result in improvement of our process.
+
 # Summary
 
 Allowing lobbying does not work. The politicians just end up putting money into the pockets of the people who stuff the politicians pockets. This makes sense to everyone, but is not stopped as the people in power are the recipients.
 
 While Canada was not perfect in it's stimulus response, and similarly funded the cronies... it was not nearly as big as a kick in the head to the people of the country the politicians are meant to represent. Here's to hoping the vaccine is quick and accepted by all.
+
+I think looking back when we are past this mess, we will see points we can improve on but Canada overall decided the correct path.
 
 ##### Sources:
 

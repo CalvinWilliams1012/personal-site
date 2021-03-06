@@ -72,6 +72,15 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-robots-txt`,
+      options: {
+        host: `https://www.calvinwilliams.ca/`,
+        sitemap: `https://www.calvinwilliams.ca/sitemap.xml`,
+        policy: [{userAgent: `*`, allow: `/`}]
+      }
+    },
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {

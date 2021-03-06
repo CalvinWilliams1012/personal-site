@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: 'https://www.calvinwilliams.ca',
     title: 'Calvin Williams',
     description:
       'Calvin Williams personal website, personal finance, video games, life in general :)',

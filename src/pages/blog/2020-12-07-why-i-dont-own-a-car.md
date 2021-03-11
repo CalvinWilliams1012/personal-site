@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Why I Don't Own a Car
 date: 2020-12-07T06:01:12.405Z
 description: The reasons why I don't currently own a car, but may plan to in the future.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/traffic-332857_1920-1-.jpg
 tags:
   - personal finance

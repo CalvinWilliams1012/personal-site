@@ -4,7 +4,7 @@ title: My Smart Thermostat Calculations
 date: 2020-12-08T05:24:25.209Z
 description: I bought a smart thermostat, mostly because it is pretty cool, but
   also because it is going to save me a ton of money.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/smart-home-3920905_1920-1-.jpg
 tags:
   - life

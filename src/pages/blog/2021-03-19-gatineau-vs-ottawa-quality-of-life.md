@@ -21,9 +21,9 @@ To see the cost differences as of 2020, [see here](https://calvinwilliams.ca/blo
 
 # They are beside each other..?
 
-Ottawa and Gatineau are only separated by a river, so for example if Ottawa has a restaurant you would like to go to, you can cross the bridge. If you want to go biking in Gatineau Park, just cross the bridge. I am not really going to talk about the social difference, as one can reasonably exist on one side of the river however be associated to the other side socially perfectly fine.
+Ottawa and Gatineau are only separated by a river, so for example if Ottawa has a restaurant you would like to go to, you can cross the bridge. If you want to go biking in Gatineau Park, just cross the bridge. I am going to talk about the social differences somewhat, but one can reasonably exist on one side of the river however be associated to the other side socially perfectly fine.
 
-So what am I going to talk about? While Ottawa and Gatineau are only separated by a few hundred meters, they are also separated by a border, and are different provinces with different rules. This is going to be the main focus of this post as if you live in Gatineau, you don't get Ontario's rules, and vice versa.
+So what am I going to mostly talk about? While Ottawa and Gatineau are only separated by a few hundred meters, they are also separated by a border, and are different provinces with different rules. This is going to be the main focus of this post as if you live in Gatineau, you don't get Ontario's rules, and vice versa.
 
 # Language
 

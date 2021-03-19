@@ -27,19 +27,19 @@ So what am I going to mostly talk about? While Ottawa and Gatineau are only sepa
 
 # Language
 
-This may be pointing out the obvious, but Gatineau, is primarily francophone, while Ottawa is primarily anglophone. For exact numbers, you can see the last [Stats Canada Census](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2481017&Geo2=POPC&Code2=0616&SearchText=Ottawa+-+Gatineau&SearchType=Begins&SearchPR=01&B1=Language&TABID=1&type=0) has that 81% of Gatineau's population learned French as their first official language, and 92% of the total population speaking French(a majority of which also speak English). 
+This may be pointing out the obvious, but Gatineau, is primarily francophone, while Ottawa is primarily anglophone. For exact numbers, you can see the last [Stats Canada Census](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CSD&Code1=2481017&Geo2=POPC&Code2=0616&SearchText=Ottawa+-+Gatineau&SearchType=Begins&SearchPR=01&B1=Language&TABID=1&type=0) states that 81% of Gatineau's population learned French as their first official language, and 92% of the total population speaking French(a majority of which also speak English). 
 
 Ottawa on the other hand, also according to the last [Stats Canada Census](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/page.cfm?Lang=E&Geo1=CMACA&Code1=35505&Geo2=POPC&Code2=0616&SearchText=Ottawa+-+Gatineau&SearchType=Begins&SearchPR=01&B1=Language&TABID=1&type=0) has a huge 97% English majority with around 80% learning English as their first official language.
 
-So the fact is, if you would like to participate in any social activities *in Gatineau*, you may need to learn French. From my experience living in Gatineau, and not knowing French, you are able to get by and unless you travel far from the border, you will find that nearly everyone speaks English if you politely explain you don't speak English. You will however eventually pick up on basic conversation like cashier's asking how your day was or if you would like a bag with your purchase.
+So the fact is, if you would like to participate in any social activities *in Gatineau*, you may need to learn French. From my experience living in Gatineau, and not knowing French, you are able to get by and unless you travel far from the border, you will find that nearly everyone speaks English if you politely explain you don't speak French. You will however eventually pick up on basic conversation like cashier's asking how your day was or if you would like a bag with your purchase.
 
 # Laws
 
-Ontario and Quebec being difference provinces, have different laws. I will not talk about income tax differences, although they are related to the laws, they are related to cost of living, see [my other post](https://calvinwilliams.ca/blog/2020-09-12-is-it-cheaper-in-ottawa-or-gatineau/) for details on that.
+Ontario and Quebec being different provinces, have different laws. I will not talk about income tax differences, or other cost saving differences, although they are related to the laws, they are related to cost of living, see [my other post](https://calvinwilliams.ca/blog/2020-09-12-is-it-cheaper-in-ottawa-or-gatineau/) for details on that.
 
 # Bill 101
 
-Related to the Language details above, I would like to point out the fact that [Quebec has Bill 101](https://en.wikipedia.org/wiki/Charter_of_the_French_Language). This Bill defines French as the official language of the provincial government and it's purpose is to make French the language of Quebec in business, communication, law, etc. This obviously makes it different from all other Canadian provinces. If you know or want to learn French, this is fine, however if you wish to only speak English, this may present issues such as forms being only in French.
+Related to the Language details above, I would like to point out the fact that [Quebec has Bill 101](https://en.wikipedia.org/wiki/Charter_of_the_French_Language). This Bill defines French as the official language of the provincial government and it's purpose is to make French the language of Quebec in business, communication, law, etc. This makes it different from all other Canadian provinces. If you know or want to learn French, this is fine, however if you wish to only speak English, this may present issues such as forms being only in French.
 
 One example of this I can provide is the provincial health care insurance, Régie de l’assurance maladie, has given me French forms for renewing my Health Card, however, I was able to use the [Google Translate app](https://translate.google.ca/) to translate a picture of the form.
 
@@ -49,7 +49,7 @@ In my opinion, one of the worst things about Quebec. [Bill 21](https://ccla.org/
 
 One thing that I find kind of funny is that Quebec essentially banned face coverings before Covid, so during Covid, I guess you could argue that your face covering is for non-Religious purposes ;)
 
-This law is; and will most likely be continuedly fought in court as it is mostly minorities that wear religious symbols as part of their faith, and this is at least to me, blatant discrimination. 
+This law is; and will most likely be continuedly fought in court as it is mostly minorities that wear religious symbols as part of their faith, and this is at least to me, blatant discrimination. I mostly included this as a rant, but it also may be important to you if you are considering a government job in Quebec.
 
 # Covid-19
 
@@ -89,4 +89,4 @@ Another major difference between the education systems is that unlike all other 
 
 Essentially, from what you can see above, if you are French speaking or willing to learn French, Gatineau does seem like the favorable option. However, if you only speak English and do not want to learn French, you would have a simpler time living in Ottawa.
 
-I will address the elephant in the room now, overall there is some vitriol between both sides of the river and the people that I believe stems from people not having experience with both sides. From what I have found both spending 2 years living in Ottawa, and 3 in Gatineau, people on both sides are mostly kind and compassionate people. If you are kind to others you will mostly find that others will be kind to you, so regardless of where you live just be kind.
+I will address the elephant in the room now, overall there is some vitriol between both sides of the river and the people that I believe stems from people not having experience with both sides. From what I have found both spending 2 years living in Ottawa, and 3 in Gatineau, people on both sides are mostly kind and compassionate people, I have encountered bad apples on both sides. If you are kind to others you will mostly find that others will be kind to you, so regardless of where you live just be kind.

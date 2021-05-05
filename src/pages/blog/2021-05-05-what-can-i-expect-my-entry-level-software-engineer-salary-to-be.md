@@ -20,11 +20,13 @@ tags:
 ---
 ![](/img/college-students-computer.webp)
 
-After recently passing my third year working I was doing some reflection on my past years working in software and with my team bringing in some newcomers I was interested in what an entry level software developer or engineer can expect to make. If someone were to spend all day on [blind ](https://www.teamblind.com/)and only use [levels.fyi](https://www.levels.fyi/) for estimating the salary they can expect, they might end up rather disappointed.
+After recently passing my third year working I was doing some reflection on my past years in software, and with my team bringing in some newcomers, I was interested in what an entry level software developer or engineer can expect to make. 
+
+If someone were to spend all day on [blind ](https://www.teamblind.com/)and only use [levels.fyi](https://www.levels.fyi/) for estimating the salary they can expect, they might end up rather disappointed.
 
 # Average in Canada
 
-As a Canadian, I started by researching this in Canada. As I mentioned above a junior software developer can expect to make $53950 Canadian dollars. I arrived at this number by taking [indeed](https://ca.indeed.com/career/junior-software-engineer/salaries), [glassdoor](https://www.glassdoor.ca/Salaries/junior-software-engineer-salary-SRCH_KO0,24.htm), and [payscales ](https://www.payscale.com/research/CA/Job=Junior_Software_Engineer/Salary)averages, then averaging them! 
+As a Canadian, I started by researching this in Canada. As I mentioned above, a junior software developer can expect to make $53950 Canadian dollars. I arrived at this number by taking [indeed](https://ca.indeed.com/career/junior-software-engineer/salaries), [glassdoor](https://www.glassdoor.ca/Salaries/junior-software-engineer-salary-SRCH_KO0,24.htm), and [payscales ](https://www.payscale.com/research/CA/Job=Junior_Software_Engineer/Salary)averages, then averaging them! 
 
 I purposefully chose to exclude levels.fyi as the numbers here seem to be oriented to FAANG engineers and in my opinion didn't seem to be representative. Unfortunately, I am unable to get the average junior salary from their website, however I took a sample of 100 of their 'new grad' salaries which resulted in an average of base salary of $100,550. While this is certainly real for some, this is not really representative of the general population, the three other companies I mention above have much better data in my opinion due to being directly linked to the hiring of engineers.
 
@@ -40,7 +42,7 @@ Averages help get an idea, however they do not give a real representation as you
 
 This data is from the [](https://insights.stackoverflow.com/survey/2019)stack overflow developer surveys, and as almost every developer uses stack overflow this is most likely very representative of the real numbers compared to the sectioned off tribes on the internet.
 
-Additionally, when interviewing and receiving offers one could compare with others in your same situation around you such as college friends, and as you have the actual company you can research real salaries from the company on sites like glassdoor or simply by searching '[*company*] [*title*] salary'.
+Additionally, when interviewing and receiving offers one could compare with others in your same situation around you such as college friends, and as you have the actual company you can research real salaries from the company on sites like glassdoor or simply by searching '[*company*] [*title*] salary'. From personal experience alone, two companies may have extremely different compensation and it is possible to be higher than the average, even without working at a FAANG!
 
 # Other Compensation
 

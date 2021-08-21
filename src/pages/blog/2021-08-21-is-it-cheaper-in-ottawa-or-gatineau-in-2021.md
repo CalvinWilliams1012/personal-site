@@ -23,7 +23,7 @@ tags:
 ---
 ![](/img/20180919_204517-1-1-.jpg)
 
-This is an updated look at the **cost** of living in Gatineau vs Ottawa, and does not account for differences such as healthcare, services, language, etc.
+This is an updated look at the **cost** of living in Gatineau vs Ottawa, and does not account for differences such as healthcare, services, language, etc. From the statistics available this year, most likely Gatineau is cheaper.
 
 You can see the [2020 comparison here](https://calvinwilliams.ca/blog/2020-09-12-is-it-cheaper-in-ottawa-or-gatineau/), and you can find the [2020 quality of life differences(non cost related) here](https://calvinwilliams.ca/blog/2021-03-19-gatineau-vs-ottawa-quality-of-life/). 
 

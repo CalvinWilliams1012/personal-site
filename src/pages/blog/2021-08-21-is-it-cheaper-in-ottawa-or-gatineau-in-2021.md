@@ -51,7 +51,7 @@ At an income of **$100000**, **Ontario income tax is $5607 cheaper**.
 
 At an income of **$150000**, **Ontario income tax is $7456 cheaper**.
 
-Accounting for only the income taxes and rental costs, the income that would make up for the difference in rent is **$130800.** At this income, Ontario is **$6678 cheaper** **per year**. Therefore, if you only want to use these two major factors, if you earn less than **$130800**, Gatineau is cheaper, while above this Ontario is cheaper.
+Accounting for only the income taxes and rental costs, the income that would make up for the difference in rent is **$130800.** At this income, Ontario is **$6678 cheaper** **per year**,which would be the exact difference we see in rent. Therefore, if you only want to use these two major factors, if you earn less than **$130800**, Gatineau is cheaper, while above this Ontario is cheaper.
 
 # Insurance, Registration, and Licensing
 

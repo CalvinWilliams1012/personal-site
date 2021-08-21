@@ -43,7 +43,7 @@ Taking the average of these differences, Ottawa is **34.3%** more expensive for 
 
 Another major difference between living in Gatineau or Ottawa is the amount of income taxes you pay. Gatineau is in Quebec, with one of the highest income tax rates in Canada, while Ottawa is in Ontario with much lower income tax rates.
 
-Last year we used Simpletaxes calculator, Simple tax was acquired by Wealthsimple, so this year we will use Wealthsimple's [income tax calculator available here](https://www.wealthsimple.com/en-ca/tool/tax-calculator/). I recommend you enter your real values in the calculator to see the difference, however again for the sake of illustration, I will show the difference at three different income levels, **$50000**, **$100000**, and **$150000**:
+Last year we used Simpletaxes calculator, Simpletax was acquired by Wealthsimple, so this year we will use Wealthsimple's [income tax calculator available here](https://www.wealthsimple.com/en-ca/tool/tax-calculator/). I recommend you enter your real values in the calculator to see the difference, however again for the sake of illustration, I will show the difference at three different income levels, **$50000**, **$100000**, and **$150000**:
 
 At an income of **$50000**, **Ontario income tax is $2177 cheaper**.
 

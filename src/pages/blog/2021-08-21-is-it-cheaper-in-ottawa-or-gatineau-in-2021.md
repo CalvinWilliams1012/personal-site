@@ -35,7 +35,7 @@ Housing is most likely the largest expense for the average family. This year aga
 
 From the RMS numbers we see that Gatineau's average rent was **$950**, and the average two bedroom rent in Ottawa was **$1517**. This shows us that the difference between Ottawa and Gatineau is **$567**. Comparing to previous numbers, Gatineau rent has increased by **8.7%**, while Ottawa has increased by **7.6%** with Ottawa being **37.4%** more expensive.
 
-The data tables also show us "Rental Condo Apts" which for Gatineau  we see at **$1206** and Ottawa we see at **$1752,** the difference being **$546.** Comparing this to the numbers from last year, Gatineau saw a **14.4%** increase, while Ottawa saw a mere **1.86%** increase resulting in the difference being narrowed by over **$100**. Overall Ottawa is still **31.2%** more expensive.
+The data tables also show us "Rental Condo Apts" which for Gatineau  we see at **$1206** and Ottawa we see at **$1752,** the difference being **$546.** Comparing this to the numbers from last year, Gatineau saw a **14.4%** increase, while Ottawa saw a mere **1.86%** increase resulting in the difference being narrowed by over **$100**. Overall Ottawa is still **31.2%** more expensive in this category.
 
 Taking the average of these differences, Ottawa is **34.3%** more expensive for rent, or putting it in a dollar term **$556.5** more a month. This makes Gatineau **$6678** cheaper per year.
 

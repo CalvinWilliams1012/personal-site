@@ -63,4 +63,24 @@ The [license cost renewals have slightly changed in Quebec](https://saaq.gouv.qc
 
 Vehicle registration fees have also [increased in Quebec](https://saaq.gouv.qc.ca/en/saaq/rates-fines/vehicle-registration/cost-registration-renewal/passenger-vehicles) with the total cost including the [contribution to public](https://saaq.gouv.qc.ca/en/saaq/rates-fines/vehicle-registration/cost-registration-renewal/passenger-vehicles/contribution-public-transit) transit being **$275.43**. The [total cost in Ontario actually saw a larger increase](https://www.ontario.ca/page/register-vehicle-permit-licence-plate-and-sticker) with this now being **$211** total cost. The breakdown of this is **$32** for vehicle permit, **$59** for the license plate, and **$120** for the plate sticker(Southern Ontario).
 
-The total cost difference between Ottawa and Gatineau's auto insurance, registration and licensing would be **$740.24.** The cost in Gatineau would be **$1088.76**, while the total cost in Ottawa would be **$1829**.
+The total cost difference between Ottawa and Gatineau's auto insurance, registration and licensing would be **$740.24.** The cost in Gatineau would be **$1088.76**, while the total cost in Ottawa would be **$1829**. Comparing to last years post, the difference has increased by **$42.15** making Gatineau's costs slightly more affordable.
+
+# Child care
+
+Many Canadians have this expense, but not all. This year we again will look at [the Canadian Centre for Policy Alternatives study on the subject](https://www.policyalternatives.ca/newsroom/news-releases/high-child-care-fees-persist-canada-right-government-action-can-lower-parent). This has the average cost of childcare for Infants, Toddlers and Preschool, see below:
+
+![Ottawa and Gatineau childcare difference](/img/childcaredifference.jpg "Ottawa and Gatineau childcare difference.")
+
+Not much has changed here, however due to Quebec having subsidized childcare, Gatineau is much more affordable. Gatineau is **$841/month** cheaper for Infants, **$861/month** cheaper for Toddlers, and **$831/month** cheaper for Preschoolers. 
+
+This results in Gatineau being **$9972 to $10332 cheaper** annually for childcare.
+
+# Overall
+
+This year we see about the same as last year. In order for Ottawa to be the best financial option, you need to have around double the median income for Canadian families, and you would need an even higher income if you had to also account for the huge difference in childcare costs.
+
+We see a fairly large difference in rents this year as Gatineau prices seemed to have increased more than Ottawa's, the cost difference will continue to shrink resulting in Ottawa possibly being the more affordable option, especially if a childcare subsidy is introduced. 
+
+As I noted last year, other small costs can be calculated such as the sales tax difference of over 1%, which could impact you if you are planning a large purchase such as a vehicle, or EV rebates in Quebec, or First Time Home buyers incentives in Ontario. 
+
+I recommend you use the resources above to find out if Ottawa or Gatineau is the more affordable option. Overall to the average Canadian, Gatineau is more affordable.

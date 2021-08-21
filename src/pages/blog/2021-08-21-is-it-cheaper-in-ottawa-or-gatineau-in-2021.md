@@ -79,7 +79,7 @@ This results in Gatineau being **$9972 to $10332 cheaper** annually for childcar
 
 This year we see about the same as last year. In order for Ottawa to be the best financial option, you need to have around [double the median income for Canadian families](https://www150.statcan.gc.ca/n1/daily-quotidien/210323/dq210323a-eng.htm), and you would need an even higher income if you had to also account for the huge difference in childcare costs.
 
-We see a fairly large difference in rents this year as Gatineau prices seemed to have increased more than Ottawa's, the cost difference will continue to shrink resulting in Ottawa possibly being the more affordable option, especially if a childcare subsidy is introduced. 
+We see a fairly large difference in rents this year as Gatineau prices seemed to have increased more than Ottawa's, if this continues, the cost difference will continue to shrink resulting in Ottawa possibly being the more affordable option in the future, especially if a childcare subsidy is introduced. 
 
 As I noted last year, other small costs can be calculated such as the sales tax difference of over 1%, which could impact you if you are planning a large purchase such as a vehicle, or EV rebates in Quebec, or First Time Home buyers incentives in Ontario. 
 

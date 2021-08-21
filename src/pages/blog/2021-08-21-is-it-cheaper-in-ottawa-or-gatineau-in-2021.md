@@ -81,6 +81,6 @@ This year we see about the same as last year. In order for Ottawa to be the best
 
 We see a fairly large difference in rents this year as Gatineau prices seemed to have increased more than Ottawa's, if this continues, the cost difference will continue to shrink resulting in Ottawa possibly being the more affordable option in the future, especially if a childcare subsidy is introduced. 
 
-As I noted last year, other small costs can be calculated such as the sales tax difference of over 1%, which could impact you if you are planning a large purchase such as a vehicle, or EV rebates in Quebec, or First Time Home buyers incentives in Ontario. 
+As I noted last year, other small costs can be calculated such as the sales tax difference of over 1%, which could impact you if you are planning a large purchase such as a vehicle. Other things to account for financially are EV rebates in Quebec, or First Time Home buyers incentives in Ontario. 
 
 I recommend you use the resources above to find out if Ottawa or Gatineau is the more affordable option. Overall to the average Canadian, Gatineau is more affordable.

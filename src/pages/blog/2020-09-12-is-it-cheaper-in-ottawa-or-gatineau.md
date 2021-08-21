@@ -28,13 +28,13 @@ Housing is generally the most expensive thing in someones life, and if you just 
 
 Checking the data, we see two different numbers. One being the the average two bedroom rent from the rental market survey (RMS), and one being the average two bedroom rent for rental condo apartments, which I believe is from the Secondary Rental Market Survey.
 
-From the RMS numbers we see that Gatineau's average rent was **$874**, and the average two bedroom rent in Ottawa was **$1410**. This shows us that the difference between Ottawa and Gatineau is **$536**, or **62%**.
+From the RMS numbers we see that Gatineau's average rent was **$874**, and the average two bedroom rent in Ottawa was **$1410**. This shows us that the difference between Ottawa and Gatineau is **$536**, or **62%**(**Edit:** After the fact I realized these percentages are incorrect, the actual percentage difference is **38%** as Gatineau's rent is **62%** of the cost of Ottawa's in this comparison**)**.
 
-From the other mentioned numbers, two bedroom rental condo apartments in Gatineau were an average of **$1054** and in Ottawa were an average of **$1720**, the difference being **$666**, or **61%**. 
+From the other mentioned numbers, two bedroom rental condo apartments in Gatineau were an average of **$1054** and in Ottawa were an average of **$1720**, the difference being **$666**, or **61%**. (**Edit:** After the fact I realized these percentages are incorrect, the actual percentage difference is **39%** as Gatineau's rent is **61%** of the cost of Ottawa's in this comparison**)**.
 
 ![Ottawa vs Gatineau Rent Table 2](/img/table2ottawagatineau2019.png "Ottawa vs Gatineau Rent Table 2")
 
-From this, I believe we can take the difference between the two percentages and surmise that the **rent in Ottawa is ~61.5% higher than Gatineau**. However this percentage does not give us a real number to use when trying to find if it is cheaper for us to live in Ottawa or Gatineau, so we can just take the average between the two. If we use the average, we can say that **rent in Gatineau is** **$601 cheaper that Ottawa**. Taking account that rent is a monthly expense, we can look at it as rent Gatineau being **$7212 cheaper per year**.
+From this, I believe we can take the difference between the two percentages and surmise that the **rent in Ottawa is ~61.5% higher than Gatineau**(**Edit:** After the fact I realized these percentages are incorrect, the actual percentage difference is **38.5%** as Gatineau's rent is **61.5%** of the cost of Ottawa's in this comparison**)**. However this percentage does not give us a real number to use when trying to find if it is cheaper for us to live in Ottawa or Gatineau, so we can just take the average between the two. If we use the average, we can say that **rent in Gatineau is** **$601 cheaper that Ottawa**. Taking account that rent is a monthly expense, we can look at it as rent Gatineau being **$7212 cheaper per year**.
 
 # Income Taxes
 

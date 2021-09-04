@@ -22,6 +22,8 @@ This is simply a look at the **cost** of living in Gatineau vs Ottawa, and does 
 
 ***Edit*** - *March 2021*: I wrote a post about the [quality of life differences between the two sides here](https://calvinwilliams.ca/blog/2021-03-19-gatineau-vs-ottawa-quality-of-life/). 
 
+***Edit** - August 2021*: I wrote an update version of this [article for 2021 available here](https://calvinwilliams.ca/blog/2021-08-21-is-it-cheaper-in-ottawa-or-gatineau-in-2021/).
+
 # Housing
 
 Housing is generally the most expensive thing in someones life, and if you just take a look at the housing cost in Gatineau and Ottawa you immediately see a huge difference. Luckily the Canada Mortgage and Housing Corporation runs a [Rental Market Survey](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/RmsMethodology) and a [Secondary Rental Market Survey](https://www03.cmhc-schl.gc.ca/hmip-pimh/en/TableMapChart/SrmsMethodology) and then publishes data tables on this which can be [found here](https://www.cmhc-schl.gc.ca/en/data-and-research/data-tables/rental-market-report-data-tables). 
